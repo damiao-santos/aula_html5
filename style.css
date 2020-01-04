@@ -1,4 +1,19 @@
 /* css significa Cascading Style Sheet(Folha de Estilo em Cascata)
 Utilizado para adicionar estilo/aparência a um documento Web)
 o CSS3 trouxe novas funcionalidades que permitem uma interação maior com o usuario, 
-como uso de transições e animações
+como uso de transições e animações */
+
+body{
+    background-color: #6E59D9;
+    color: white;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+h1, h2 {
+    font-family: fantasy;
+}
+nav p{
+    font-family: monospace;
+}
